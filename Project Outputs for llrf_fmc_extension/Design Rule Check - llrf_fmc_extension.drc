@@ -1,0 +1,118 @@
+Protel Design System Design Rule Check
+PCB File : D:\YandexDisk\Work\Altium\COSY\llrf_fmc_extention_pcb\llrf_fmc_extension.PcbDoc
+Date     : 13.02.2022
+Time     : 18:13:42
+
+Processing Rule : Clearance Constraint (Gap=0.25mm) (OnLayer('GroundPlane')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (WithinRoom('FPGA room')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (IsCopperRegion),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 12V_FMC Between Track (104.21mm,7.602mm)(104.84mm,8.232mm) on Bottom Layer And Via (111.809mm,50.806mm) from TopLayer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=2mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.1mm) (WithinRoom('FPGA room'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.15mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (WithinRoom('FPGA room'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.2mm) (Conductor Width=0.15mm) (Air Gap=0.15mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.1mm) (All)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (101.1mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (101.1mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (102.6mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (102.6mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (104.1mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (104.1mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (111.6mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (111.6mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (113.1mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (113.1mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (114.6mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (114.6mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-3mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-3mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (4.5mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-4.5mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (4.5mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-4.5mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (6mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-6mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (6mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (-6mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (7.5mm,-5.75mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+   Violation between Minimum Annular Ring: (Collision < 0.1mm) Via (7.5mm,72.5mm) from TopLayer to Bottom Layer (Annular Ring=0mm) On (Top Layer)
+Rule Violations :24
+
+Processing Rule : Length Constraint (Min=0mm) (Max=2540mm) (All)
+   Violation between Length Constraint: (0mm < 0mm) xSignal(DAC_CLK_dds_channel_1_N-CLK0_N_PP1) Actual xSignal Length = 0mm
+   Violation between Length Constraint: (0mm < 0mm) xSignal(DAC_CLK_dds_channel_1_P-CLK0_P_PP1) Actual xSignal Length = 0mm
+   Violation between Length Constraint: (0mm < 0mm) xSignal(NetC3_1-REFA_P_PP1) Actual xSignal Length = 0mm
+   Violation between Length Constraint: (0mm < 0mm) xSignal(NetC4_2-REFA_N_PP2) Actual xSignal Length = 0mm
+   Violation between Length Constraint: (0mm < 0mm) xSignal(NetC5_1-NetR17_1_PP1) Actual xSignal Length = 0mm
+   Violation between Length Constraint: (0mm < 0mm) xSignal(NetC6_2-NetR15_1_PP1) Actual xSignal Length = 0mm
+Rule Violations :6
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_C3,C4,C5,C6_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U34_U1_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.2mm) (InxSignalClass('xSignals_U1_Passives_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_C3,C4_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_Passives_C3,C4,C5,C6_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_C5,C6_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_Passives_C5,C6_MatchLengthsClass_1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InNetClass('DDS_out_channels'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InxSignalClass('xSignals_U1_J1,J2_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_Passives_MatchLengthsClass_1'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_Passives_C5,C6_MatchLengthsClass'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=2.54mm) (InxSignalClass('xSignals_U1_Passives_MatchLengthsClass'))
+Rule Violations :0
+
+
+Violations Detected : 31
+Waived Violations : 0
+Time Elapsed        : 00:00:01
