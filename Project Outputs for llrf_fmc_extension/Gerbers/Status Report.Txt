@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [llrf_fmc_extension.PcbDoc]
+   Generated File[llrf_fmc_extension.TXT]
+   Generated File[llrf_fmc_extension.LDP]
+   Generated File[llrf_fmc_extension.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 21:48:41 On 14.02.2022

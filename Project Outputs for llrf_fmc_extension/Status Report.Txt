@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 21:49:24 On 14.02.2022
+
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [llrf_fmc_extension.PrjPcb]
+   Generated File[llrf_fmc_extension.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 21:49:26 On 14.02.2022
