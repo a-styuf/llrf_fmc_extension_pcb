@@ -2,28 +2,6 @@
 FileName = llrf_fmc_extension.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical10
-      File : llrf_fmc_extension.GM10
-
-    Adding Layer      : Mechanical10
-
-
-Used DCodes :
-    D24
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : llrf_fmc_extension.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D24
-*************************************************************
-
-*************************************************************
 Generating : Bottom Overlay
       File : llrf_fmc_extension.GBO
 
@@ -51,8 +29,7 @@ Used DCodes :
     D13
     D14
     D15
-    D16
-    D17
+    D23
 *************************************************************
 
 *************************************************************
@@ -71,8 +48,86 @@ Used DCodes :
     D13
     D14
     D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical10
+      File : llrf_fmc_extension.GM10
+
+    Adding Layer      : Mechanical10
+
+
+Used DCodes :
+    D21
+*************************************************************
+
+*************************************************************
+Generating : FlexLayer1
+      File : llrf_fmc_extension.G1
+
+    Adding Layer      : FlexLayer1
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D16
+    D18
+    D19
+    D21
+*************************************************************
+
+*************************************************************
+Generating : TopLayer
+      File : llrf_fmc_extension.GTL
+
+    Adding Layer      : TopLayer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
     D16
     D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : llrf_fmc_extension.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D17
+    D18
+    D19
+    D20
+    D22
+*************************************************************
+
+*************************************************************
+Generating : FlexLayer2
+      File : llrf_fmc_extension.G2
+
+    Adding Layer      : FlexLayer2
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D11
+    D16
+    D18
+    D19
 *************************************************************
 
 *************************************************************
@@ -88,72 +143,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : llrf_fmc_extension.GBL
+Generating : Mechanical 1
+      File : llrf_fmc_extension.GM1
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : MultiLayer
+    Adding Layer      : Mechanical 1
 
 
 Used DCodes :
-    D11
-    D19
-    D20
     D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
-Generating : FlexLayer2
-      File : llrf_fmc_extension.G2
-
-    Adding Layer      : FlexLayer2
-
-    Adding Layer      : MultiLayer
-
-
-Used DCodes :
-    D11
-    D18
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : FlexLayer1
-      File : llrf_fmc_extension.G1
-
-    Adding Layer      : FlexLayer1
-
-    Adding Layer      : MultiLayer
-
-
-Used DCodes :
-    D11
-    D18
-    D21
-    D22
-    D24
-*************************************************************
-
-*************************************************************
-Generating : TopLayer
-      File : llrf_fmc_extension.GTL
-
-    Adding Layer      : TopLayer
-
-    Adding Layer      : MultiLayer
-
-
-Used DCodes :
-    D11
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
 *************************************************************
 

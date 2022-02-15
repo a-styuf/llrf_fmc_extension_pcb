@@ -123,7 +123,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WASGTFZF
+DocumentUniqueId=UFVSEJWT
 
 [Document6]
 DocumentPath=llrf_fmc_ext_male.SchDoc
@@ -197,13 +197,85 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for llrf_fmc_extension\Design Rule Check - llrf_fmc_extension.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.G1
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.G2
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GM10
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for llrf_fmc_extension\Gerbers\llrf_fmc_extension\llrf_fmc_extension.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=C:\Users\2C83~1\AppData\Local\Temp\Pro447F.xls
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=C:\Users\2C83~1\AppData\Local\Temp\Pro941E.xls
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=C:\Users\2C83~1\AppData\Local\Temp\ProD4D5.xls
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Разработал
 Value=Styuf Alexey
 
 [Parameter2]
 Name=GlobalProjectRevision
-Value=v0.2
+Value=v0.3
 
 [Parameter3]
 Name=GlobalProjectName3
