@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: llrf_fmc_extension.PcbDoc   21.02.2022  15:15:17
+NCDrill File Report For: llrf_fmc_extension.PcbDoc   31.03.2022  9:44:46
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : TopLayer to Bottom Layer
@@ -7,10 +7,10 @@ ASCII RoundHoles File : llrf_fmc_extension.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             348       PTH        0.00mm (0.00inch)
-T2      1mm (39mil)                                               Round             24        PTH        0.00mm (0.00inch)
-T3      2.7mm (106mil)                                            Round             4         PTH        0.00mm (0.00inch)
-T4      1.27mm (50mil)                                            Round             4         NPTH       0.00mm (0.00inch)
+T1      0.2mm (8mil)                                              Round             348       PTH        991.56mm (39.04inch)
+T2      1mm (39mil)                                               Round             24        PTH        387.34mm (15.25inch)
+T3      2.7mm (106mil)                                            Round             4         PTH        342.57mm (13.49inch)
+T4      1.27mm (50mil)                                            Round             4         NPTH       264.39mm (10.41inch)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              380
 

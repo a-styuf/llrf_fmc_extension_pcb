@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: llrf_fmc_extension.GBR   21.02.2022  15:15:16
+Gerber File Extension Report For: llrf_fmc_extension.GBR   31.03.2022  9:44:45
 ------------------------------------------------------------------------------------------
 
 
@@ -8,10 +8,12 @@ Layer Extension     Layer Description
 ------------------------------------------------------------------------------------------
 .GTO                TopOverlay                              
 .GTS                TopSolder                               
+.GTS1               TopSolder                               
 .GTL                TopLayer                                
 .G1                 FlexLayer1                              
 .G2                 FlexLayer2                              
 .GBL                Bottom Layer                            
+.GBS1               Bottom Solder                           
 .GBS                Bottom Solder                           
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
